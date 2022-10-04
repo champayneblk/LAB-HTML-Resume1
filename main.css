@@ -1,0 +1,45 @@
+body {
+  background-color: green;
+}
+
+h1 {
+  color: fuchsia;
+}
+
+h2 {
+color: chartreuse;
+}
+
+h3 {
+  color: cadetblue;
+}
+
+#Omni {
+color: black;
+background-color: yellow;
+font-size: 15px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+border-color: aqua;
+border-style: dashed;
+border-width: 12px;
+}
+
+#Prose {
+color: blue;
+background-color: aqua;
+font-size: 15px;
+font-family: 'Courier New', Courier, monospace;
+border-color: pink;
+border-style: dotted;
+border-width: 13px;
+}
+
+#Amp {
+color: red;
+background-color: violet;
+font-size: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+border-color: brown;
+border-style: double;
+border-width: 12px;
+}
